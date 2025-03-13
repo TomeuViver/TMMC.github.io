@@ -1,2 +1,2 @@
-# TMMC.github.io
-Taxonomy and Metagenomics of Microbial Communities
+# Taxonomy and Metagenomics of Microbial Communities
+
