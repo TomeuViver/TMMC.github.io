@@ -15,10 +15,10 @@ In this workshop, students will explore key concepts in microbial taxonomy and e
 
 By the end of the workshop, participants will:
 
-- Understand microbial species concepts and definitions, particularly in the context of genome-resolved metagenomics for analyzing prokaryotic community diversity.
-- Gain practical experience in applying computational approaches to analyze 16S ribosomal RNA genes and metagenomic data, with a focus on genome-resolved MAGs for characterizing prokaryotic diversity and metabolic potential.
-- Assess the quality of both raw metagenomic data and MAGs to ensure reliable downstream analyses.
-- Utilize cutting-edge genome similarity methods to identify taxonomic novelty in MAGs and propose new taxa.
+- Understand **microbial species concepts and definitions**, particularly in the context of genome-resolved metagenomics for analyzing prokaryotic community diversity.
+- Gain practical experience in applying **computational approaches to analyze 16S ribosomal RNA genes and metagenomic data**, with a focus on genome-resolved MAGs for characterizing prokaryotic diversity and metabolic potential.
+- Assess the **quality of both raw metagenomic data and MAGs** to ensure reliable downstream analyses.
+- Utilize cutting-edge genome similarity methods to identify **taxonomic novelty in MAGs** and **propose new taxa**.
 - Integrate the latest guidelines from the **Code of Nomenclature of Prokaryotes Described from Sequence Data (SeqCode)** to formally describe newly identified prokaryotic taxa.
 
 ## Hands-on Practical Lessons
