@@ -32,6 +32,5 @@ By the end of the workshop, participants will:
 
 ---
 
-For more details and updates, stay tuned!
 
 
