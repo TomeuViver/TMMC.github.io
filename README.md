@@ -24,9 +24,9 @@ By the end of the workshop, participants will:
 ## Hands-on Practical Lessons
 
 1. [Preparation of computing environments](https://tomeuviver.github.io/Computing_environment.github.io/)
-2. [Taxonomic analysis based on individual 16S rRNA gene](https://www.google.com/)
+2. [Taxonomic analysis based on individual 16S rRNA gene](https://tomeuviver.github.io/Single_16S_ARB/)
 3. [Detecting ASVs and OTUs as initial units of diversity](https://tomeuviver.github.io/ASVs_Qiime2.github.io/)
-4. [The OPU approach to diversity metrics](https://www.google.com/)
+4. [The OPU approach to diversity metrics](https://tomeuviver.github.io/OPU_approach/)
 5. [Processing metagenomes and resolving genome-assembled genomes](https://www.google.com/)
 6. [The SeqCode Registry](https://www.google.com/)
 
