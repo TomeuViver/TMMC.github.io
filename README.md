@@ -23,7 +23,7 @@ By the end of the workshop, participants will:
 
 ## Hands-on Practical Lessons
 
-1. [Preparation of computing environments](https://www.google.com/)
+1. [Preparation of computing environments](https://tomeuviver.github.io/Computing_environment.github.io/)
 2. [Taxonomic analysis based on individual 16S rRNA gene](https://www.google.com/)
 3. [Detecting ASVs and OTUs as initial units of diversity](https://www.google.com/)
 4. [The OPU approach to diversity metrics](https://www.google.com/)
