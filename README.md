@@ -3,7 +3,7 @@
 ## Lecturers
 
 - **Ramon Rossello-Mora**  
-  *Mediterranean Institute for Advanced Studies (IMEDEA-CSIC-UIB), Spain*
+  *Mediterranean Institute for Advanced Studies [(IMEDEA-CSIC-UIB)](https://imedea.uib-csic.es/), Spain*
 - **Tomeu Viver**  
   *Max-Planck Institute for Marine Microbiology (MPI, Germany), and IMEDEA (CSIC-UIB)*
 
