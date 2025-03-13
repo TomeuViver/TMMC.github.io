@@ -27,7 +27,7 @@ By the end of the workshop, participants will:
 2. [Taxonomic analysis based on individual 16S rRNA gene](https://tomeuviver.github.io/Single_16S_ARB/)
 3. [Detecting ASVs and OTUs as initial units of diversity](https://tomeuviver.github.io/ASVs_Qiime2.github.io/)
 4. [The OPU approach to diversity metrics](https://tomeuviver.github.io/OPU_approach/)
-5. [Processing metagenomes and resolving genome-assembled genomes](https://www.google.com/)
+5. [Processing metagenomes and resolving genome-assembled genomes](https://tomeuviver.github.io/Metagenomics.github.io/)
 6. [The SeqCode Registry](https://www.google.com/)
 
 ---
