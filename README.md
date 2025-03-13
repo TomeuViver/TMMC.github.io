@@ -5,7 +5,7 @@
 - **Ramon Rossello-Mora**  
   *Mediterranean Institute for Advanced Studies [(IMEDEA-CSIC-UIB)](https://imedea.uib-csic.es/), Spain*
 - **Tomeu Viver**  
-  *Max-Planck Institute for Marine Microbiology [(MPI, Germany)](https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html), and IMEDEA (CSIC-UIB)*
+  *Max-Planck Institute for Marine Microbiology [(MPI, Germany)](https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html), and [IMEDEA-CSIC-UIB](https://imedea.uib-csic.es/)*
 
 ## Description
 
